@@ -30,3 +30,15 @@
 - **Module**: `unique.py`
 - **Tests**: `test_unique.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/unique-in-order)
+
+**Sort deck of cards (7th kyu)**
+
+- **Module**: `sort_cards.py`
+- **Tests**: `test_sort_cards.py`
+- **URL**: [challenge url](http://www.codewars.com/kata/56f399b59821793533000683)
+
+**String Pyramid (6th kyu)**
+
+- **Module**: `string_pyramid.py`
+- **Tests**: `test_string_pyramid.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/string-pyramid)
